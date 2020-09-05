@@ -1,0 +1,9 @@
+[05/09/2020 19:44:06] EXC: #<TypeError: no implicit conversion of nil into String>
+[05/09/2020 19:49:51] EXC: #<NameError: undefined local variable or method `null' for #<Autenticate:0x0000000005100b80>>
+[05/09/2020 19:51:40] EXC: #<NameError: undefined local variable or method `null' for #<Autenticate:0x0000000004fb0a28>>
+[05/09/2020 19:52:02] EXC: #<NameError: undefined local variable or method `null' for #<Autenticate:0x00000000065af8d8>>
+[05/09/2020 19:53:10] EXC: #<NameError: undefined local variable or method `null' for #<Autenticate:0x0000000004bb5388>>
+[05/09/2020 19:54:49] EXC: #<NameError: undefined local variable or method `null' for #<Autenticate:0x00000000053b4a48>>
+[05/09/2020 19:55:01] EXC: #<NameError: undefined local variable or method `null' for #<Autenticate:0x0000000004fd46f8>>
+[05/09/2020 19:56:12] EXC: #<TypeError: no implicit conversion of nil into String>
+[05/09/2020 19:58:17] EXC: #<TypeError: no implicit conversion of nil into String>

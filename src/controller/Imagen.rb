@@ -1,9 +1,9 @@
-class Index < AbstractController
+class Imagen < AbstractController
     def initialize
     end
 
     def ejecutar(dato)
-        dato["parametro"] = "Index"
+        dato["parametro"] = "Imagenes"
         redirect("login")
     end
 

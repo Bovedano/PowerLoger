@@ -1,0 +1,70 @@
+[05/09/2020 19:29:20] NAV:  [page = index]
+[05/09/2020 19:29:20] NAV:  [page = login]
+[05/09/2020 19:32:22] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:34:37] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:37:35] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:37:42] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:39:34] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:40:49] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:41:40] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:43:58] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:44:06] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:49:51] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:51:40] NAV:  [page = autenticateuname = asdpsw = dsadremember = on]
+[05/09/2020 19:51:58] NAV:  [page = index]
+[05/09/2020 19:51:58] NAV:  [page = login]
+[05/09/2020 19:52:02] NAV:  [page = autenticateuname = aaapsw = bbbremember = on]
+[05/09/2020 19:53:10] NAV: page [uname = aaa;psw = bbb;remember = on;]
+[05/09/2020 19:54:49] NAV: page [uname = aaa;psw = bbb;remember = on;]
+[05/09/2020 19:55:01] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 19:56:12] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 19:58:17] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 19:59:24] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 19:59:24] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 20:06:12] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 20:06:12] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ]
+[05/09/2020 20:07:43] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ] -> 
+[05/09/2020 20:07:43] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:09:29] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ] -> 
+[05/09/2020 20:09:29] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:11:37] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ] -> 
+[05/09/2020 20:11:37] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:13:06] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ] -> 
+[05/09/2020 20:13:06] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:15:04] NAV: autenticate [uname=aaa ; psw=bbb ; remember=on ; ] -> 
+[05/09/2020 20:15:04] NAV: userpanel [uname=aaa ; psw=bbb ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:19:11] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:19:11] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:19:12] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:19:12] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:21:20] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:21:20] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:21:24] NAV: autenticate [uname=ddd ; psw=ddd ; remember=on ; ] -> 
+[05/09/2020 20:21:24] NAV: userpanel [uname=ddd ; psw=ddd ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:21:56] NAV: autenticate [uname=ddd ; psw=ssddd ; remember=on ; ] -> 
+[05/09/2020 20:21:56] NAV: userpanel [uname=ddd ; psw=ssddd ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:22:09] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:22:09] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:22:13] NAV: autenticate [uname=sddddd ; psw=dddaassd ; remember=on ; ] -> 
+[05/09/2020 20:22:13] NAV: userpanel [uname=sddddd ; psw=dddaassd ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:22:26] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:22:26] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:30:52] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:30:52] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:30:53] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:30:53] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:31:26] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:31:26] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:32:24] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:32:24] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:34:00] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:34:00] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:34:28] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:34:28] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:36:54] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:36:54] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:37:27] NAV: autenticate [uname=aa ; psw=ss ; remember=on ; ] -> 
+[05/09/2020 20:37:27] NAV: userpanel [uname=aa ; psw=ss ; remember=on ; ] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
+[05/09/2020 20:37:40] NAV: index [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/index.erb
+[05/09/2020 20:37:40] NAV: login [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/login/login.erb
+[05/09/2020 20:37:59] NAV: userpanel [] -> D:/Programacion/PowerLoger/PowerLoger/src/view/userpanel/userpanel.erb
